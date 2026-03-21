@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AtakaanShiva/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/AtakaanShiva/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
