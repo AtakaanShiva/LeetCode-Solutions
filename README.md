@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/AtakaanShiva/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AtakaanShiva/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
